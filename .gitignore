@@ -8,3 +8,4 @@
 fastled-map-demo/build/
 fastled-map-demo/libdeps/
 node_modules
+dist
